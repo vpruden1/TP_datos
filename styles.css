@@ -1,0 +1,71 @@
+body {
+  background-color: 'purple';
+}
+
+h1 {
+  color: #111;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 3em;
+  text-align: center;
+}
+
+.author {
+  color: #111;
+  display: block;
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: 200;
+  font-size: 1.5em;
+  position: relative;
+  text-align: center;
+  padding-bottom: 2em;
+}
+
+.pregunta{
+  color: #111;
+  display: block;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 2em;
+  padding: 0.5em 0 0.5em 0;
+  position: relative;
+  text-align: center;
+}
+
+.texto{
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 1.2em;
+  font-weight: 200;
+}
+
+.icon{
+  position: relative;
+  bottom: 2.75em;
+  left: 2.5em;
+}
+
+.stats > div{
+  padding: 0.5em;
+}
+
+.porcentaje{
+  font-family: 'Montserrat', sans-serif;
+  color: #7FC3CF;
+  font-size: 3em;
+  font-weight: 400;
+}
+
+.detalle_porcentaje{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 0.8em;
+  font-weight: 200;
+}
+
+.hline-bottom {
+  padding-bottom: 10px;
+  border-bottom: 1px solid rgba(206, 196, 196, 0.815); /* whichever color you prefer */
+}
+
+#flecha{
+  position: relative;
+  top:-26.5em;
+  left:15.45em;
+}
